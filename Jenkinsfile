@@ -9,7 +9,7 @@ try {
 
 node{
  stage('Checkout') {
- git 'https://github.com/edureka-git/DevOpsClassCodes'
+ git 'https://github.com/KukiDba/DevOpsClassCodes'
 
  }
  stage('Build') {
